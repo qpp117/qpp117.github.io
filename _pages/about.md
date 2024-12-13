@@ -20,7 +20,6 @@ redirect_from:
 I'm a Post-doctoral fellow at the School of Computer Science, Institute of Science Tokyo (formerly Tokyo Tech), advised by Prof. [Yang Cao](https://yangcao888.github.io/). Previously, I received my PhD degree from Beijing Institute of Technology in 2024, advised by Prof. [Zhiwei Zhang](https://cs.bit.edu.cn/szdw/jsml/gjjgccrc/zhangzw_277c6d460a1948d3a60b44170248a1c0/index.htm).
 
 My research interest includes **Personalized Federated Learning** and **Graph Analysis**.
-I have published some papers at the top conferences/journals such as ICDE, TKDE, ToN, DASFFA, GlobeCom, WISE, ApWeb, ICCC. 
 
 
 # 🔥 News
@@ -82,19 +81,17 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 - IEEE/CIC  International Conference on Communications in China (ICCC), 2017
 
 
-
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Academic Services
+- *Conference/Journal Reviewers* 
+  - Journal Reviewers: IEEE TKDE, IEEE TDSC, IEEE TVT, ACM TSAS, IEEE ACCESS
+  - (External) Reviewer: VLDB (2022,2023), ICDE (2022,2023), AAAI (2021,2022）), SIGIR (2021), IJCAI(2022), DASFFA (2023,2024), PAKDD (2022), APWeb (2022,2023), EDBT(2022)
+
+- *Editorial/Organizing Committee Member* 
+  - Registration chair, Australasian Database Conference (ADC) 2024.
+
+
+
