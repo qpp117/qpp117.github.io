@@ -4,10 +4,10 @@ main:
     url: "/#about-me"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#invited-talks"
 
   - title: "Academic Services"
-    url: "/#-academic-services"
+    url: "/#academic-services"
