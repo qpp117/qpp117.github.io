@@ -24,6 +24,7 @@ My research interest includes **Personalized Federated Learning** and **Graph An
 
 # 🔥 News
 - **2024.03**: &nbsp;🎉🎉 One paper is accepted by DASFAA 2024. 
+- **2024.01**: &nbsp;🎉🎉 One paper is accepted by ToN 2024. 
 - **2023.12**: &nbsp;🎉🎉 One paper is accepted by TKDE 2024. 
 - **2023.11**: &nbsp;🎉🎉 One paper is accepted by ICDE 2024. 
 
