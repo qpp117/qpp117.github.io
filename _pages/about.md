@@ -28,47 +28,47 @@ My research interest includes **Personalized Federated Learning**, **Graph Analy
 **Pengpeng Qiao**, Kangfei Zhao, Bei Bi, Zhiwei Zhang, Ye Yuan, Guoren Wang
 - International Conference on Data Engineering (ICDE), 2024, CCF-A
 
-<img src='https://img.shields.io/badge/TKDE%2024-6495ED'/> [AStore: Uniformed Adaptive Learned Index and Cache for RDMA-enabled Key-Value Store](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402111)
+<img src='https://img.shields.io/badge/TKDE%2024-808A87'/> [AStore: Uniformed Adaptive Learned Index and Cache for RDMA-enabled Key-Value Store](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402111)
 
 **Pengpeng Qiao**, Zhiwei Zhang, Yuntong Li, Ye Yuan, Shuliang Wang, Guoren Wang, Jeffrey Xu Yu
 - IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024, CCF-A
 
-<img src='https://img.shields.io/badge/TKDE%2023-4C81ED'/> [TAG: Joint Triple-hierarchical Attention and GCN for Review-based Social Recommender System](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9844848)
+<img src='https://img.shields.io/badge/TKDE%2023-808A87'/> [TAG: Joint Triple-hierarchical Attention and GCN for Review-based Social Recommender System](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9844848)
 
 **Pengpeng Qiao**, Zhiwei Zhang, Zhetao Li, Yuanxing Zhang, Kaigui Bian, Guoren Wang
 - IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023, CCF-A
 
-<img src='https://img.shields.io/badge/ToN%2024-orange'/> [Rices: Robust Data Inference and Cost-Effective Cell Selection for Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10535118)
+<img src='https://img.shields.io/badge/ToN%2024-808A87'/> [Rices: Robust Data Inference and Cost-Effective Cell Selection for Sparse Mobile Crowdsensing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10535118)
 
 Chengxin Li, Zhetao Li, Saiqin Long, **Pengpeng Qiao**, Ye Yuan, Guoren Wang
 - IEEE/ACM Transactions on Networking (ToN), 2024, CCF-A
 
-<img src='https://img.shields.io/badge/DASFAA%2024-orange'/> [FedSig: A Federated graph Augmentation for Class-Imbalanced Node Classification](https://link.springer.com/chapter/10.1007/978-981-97-5552-3_32)
+<img src='https://img.shields.io/badge/DASFAA%2024-808A87'/> [FedSig: A Federated graph Augmentation for Class-Imbalanced Node Classification](https://link.springer.com/chapter/10.1007/978-981-97-5552-3_32)
 
 Beibi, Zhiwei Zhang, **Pengpeng Qiao**, Ye Yuan, Guoren Wang
 - International Conference on Database Systems for Advanced Applications (DASFAA), 2024, CCF-B
 
-<img src='https://img.shields.io/badge/APWeb%2023-orange'/> [Detecting Critical Nodes in Hypergraphs via Hypergraph Convolutional Network](https://link.springer.com/chapter/10.1007/978-981-97-2421-5_4)
+<img src='https://img.shields.io/badge/APWeb%2023-808A87'/> [Detecting Critical Nodes in Hypergraphs via Hypergraph Convolutional Network](https://link.springer.com/chapter/10.1007/978-981-97-2421-5_4)
 
 Zhuang Miao, Fuhui Sun, Xiaoyan Wang, **Pengpeng Qiao**, Kangfei Zhao, Yadong Wang, Zhiwei Zhang, and George Y. Yuan
 - APWeb-WAIM International Joint Conference on Web and Big Data (APWeb), 2023, CCF-C
 
-<img src='https://img.shields.io/badge/WISE%2022-orange'/> [Efficient Truss Computation for Large Hypergraphs](https://link.springer.com/chapter/10.1007/978-3-031-20891-1_21)
+<img src='https://img.shields.io/badge/WISE%2022-808A87'/> [Efficient Truss Computation for Large Hypergraphs](https://link.springer.com/chapter/10.1007/978-3-031-20891-1_21)
 
 Xinzhou Wang, Yinjia Chen, Zhiwei Zhang, **Pengpeng Qiao**, Guoren Wang
 - International Conference on Web Information Systems Engineering (WISE), 2022, CCF-C
 
-<img src='https://img.shields.io/badge/GlobeCom%2019-orange'/> [Adversarial Learning of Transitive Semantic Features for Cross-Domain Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9013898)
+<img src='https://img.shields.io/badge/GlobeCom%2019-808A87'/> [Adversarial Learning of Transitive Semantic Features for Cross-Domain Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9013898)
 
 Zhetao Li, **Pengpeng Qiao**(student first-author), Yuanxing Zhang, Kaigui Bian
 - IEEE Global Communications Conference (GLOBECOM), 2019, CCF-C, <font color=red>Best Conference Paper Award of TCBD</font>
 
-<img src='https://img.shields.io/badge/GlobeCom%2018-orange'/> [Optimal trajectory planning of drones for 3D mobile sensing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8647796)
+<img src='https://img.shields.io/badge/GlobeCom%2018-808A87'/> [Optimal trajectory planning of drones for 3D mobile sensing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8647796)
 
 Pengyu Zhao, Yuzhe Yang, Yuanxing Zhang, Kaigui Bian, Lingyang Song, **Pengpeng Qiao**, Zhetao Li
 - IEEE Global Communications Conference (GLOBECOM), 2019, CCF-C
 
-<img src='https://img.shields.io/badge/ICCC%2017-orange'/> [Fine-grained collision mitigation control for neighbor discovery in wireless sensor networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8330519)
+<img src='https://img.shields.io/badge/ICCC%2017-808A87'/> [Fine-grained collision mitigation control for neighbor discovery in wireless sensor networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8330519)
 
 Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 - IEEE/CIC  International Conference on Communications in China (ICCC), 2017
