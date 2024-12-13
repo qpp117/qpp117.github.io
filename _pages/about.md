@@ -33,7 +33,7 @@ My research interest includes **Personalized Federated Learning**, **Graph Analy
 **Pengpeng Qiao**, Zhiwei Zhang, Yuntong Li, Ye Yuan, Shuliang Wang, Guoren Wang, Jeffrey Xu Yu
 - IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024, CCF-A
 
-<img src='https://img.shields.io/badge/TKDE%2023-orange'/> [TAG: Joint Triple-hierarchical Attention and GCN for Review-based Social Recommender System](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9844848)
+<img src='https://img.shields.io/badge/TKDE%2023-4C81ED'/> [TAG: Joint Triple-hierarchical Attention and GCN for Review-based Social Recommender System](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9844848)
 
 **Pengpeng Qiao**, Zhiwei Zhang, Zhetao Li, Yuanxing Zhang, Kaigui Bian, Guoren Wang
 - IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023, CCF-A
