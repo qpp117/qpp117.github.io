@@ -28,7 +28,7 @@ My research interest includes **Personalized Federated Learning**, **Graph Analy
 **Pengpeng Qiao**, Kangfei Zhao, Bei Bi, Zhiwei Zhang, Ye Yuan, Guoren Wang
 - International Conference on Data Engineering (ICDE), 2024, CCF-A
 
-<img src='https://img.shields.io/badge/TKDE%2024-orange'/> [AStore: Uniformed Adaptive Learned Index and Cache for RDMA-enabled Key-Value Store](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402111)
+<img src='https://img.shields.io/badge/TKDE%2024-6495ED'/> [AStore: Uniformed Adaptive Learned Index and Cache for RDMA-enabled Key-Value Store](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402111)
 
 **Pengpeng Qiao**, Zhiwei Zhang, Yuntong Li, Ye Yuan, Shuliang Wang, Guoren Wang, Jeffrey Xu Yu
 - IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024, CCF-A
