@@ -23,7 +23,7 @@ My research interest includes **Personalized Federated Learning**, **Graph Analy
 
 <span class='anchor' id='publications'></span>
 # Publications 
-<img src='https://img.shields.io/badge/ICDE%2024-lightgrey'/> [Feed: Towards Personalization-Effective Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597724)
+<img src='https://img.shields.io/badge/ICDE%2024-808A87'/> [Feed: Towards Personalization-Effective Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597724)
 
 **Pengpeng Qiao**, Kangfei Zhao, Bei Bi, Zhiwei Zhang, Ye Yuan, Guoren Wang
 - International Conference on Data Engineering (ICDE), 2024, CCF-A
