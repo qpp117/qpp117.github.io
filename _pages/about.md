@@ -23,10 +23,10 @@ My research interest includes **Personalized Federated Learning** and **Graph An
 
 
 # 🔥 News
-- **2024.03**: &nbsp;🎉🎉 One paper is accepted by DASFAA 2024. 
-- **2024.01**: &nbsp;🎉🎉 One paper is accepted by ToN. 
-- **2023.12**: &nbsp;🎉🎉 One paper is accepted by TKDE. 
-- **2023.11**: &nbsp;🎉🎉 One paper is accepted by ICDE 2024. 
+- **2024.03**: &nbsp; One paper is accepted by DASFAA 2024. 
+- **2024.01**: &nbsp; One paper is accepted by ToN. 
+- **2023.12**: &nbsp; One paper is accepted by TKDE. 
+- **2023.11**: &nbsp; One paper is accepted by ICDE 2024. 
 
 # 📝 Publications 
 <img src='https://img.shields.io/badge/ICDE%2024-orange'/> [Feed: Towards Personalization-Effective Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597724)
@@ -92,7 +92,6 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 - *Conference/Journal Reviewers* 
   - Journal Reviewers: IEEE TKDE, IEEE TDSC, IEEE TVT, ACM TSAS, IEEE ACCESS
   - (External) Reviewer: VLDB (2022,2023), ICDE (2022,2023), AAAI (2021,2022）), SIGIR (2021), IJCAI(2022), DASFFA (2023,2024), PAKDD (2022), APWeb (2022,2023), EDBT(2022)
-
 - *Editorial/Organizing Committee Member* 
   - Registration chair, Australasian Database Conference (ADC) 2024.
 
