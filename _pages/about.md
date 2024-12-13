@@ -21,13 +21,14 @@ I'm a Post-doctoral fellow at the School of Computer Science, Institute of Scien
 
 My research interest includes **Personalized Federated Learning** and **Graph Analysis**.
 
-
+<span class='anchor' id='news'></span>
 # 🔥 News
 - **2024.03**: &nbsp; One paper is accepted by DASFAA 2024. 
 - **2024.01**: &nbsp; One paper is accepted by ToN. 
 - **2023.12**: &nbsp; One paper is accepted by TKDE. 
 - **2023.11**: &nbsp; One paper is accepted by ICDE 2024. 
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 <img src='https://img.shields.io/badge/ICDE%2024-orange'/> [Feed: Towards Personalization-Effective Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597724)
 
@@ -81,14 +82,14 @@ Pengyu Zhao, Yuzhe Yang, Yuanxing Zhang, Kaigui Bian, Lingyang Song, **Pengpeng 
 Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 - IEEE/CIC  International Conference on Communications in China (ICCC), 2017
 
-
+<span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
 - *2024.07*, Oral presentation at DASFAA 2024 about our paper: '*FedSig: A Federated graph Augmentation for Class-Imbalanced Node Classification*', Gifu, Japan.  
 - *2024.05*, Oral presentation at ICDE 2024 about our paper: '*Feed: Towards Personalization-Effective Federated Learning*', Utrecht, Netherlands.
 - *2023.10*, Oral presentation at APWeb 2023 about our paper: '*Detecting Critical Nodes in Hypergraphs via Hypergraph Convolutional Network*', Wuhan, China.
 - *2019.12*, Oral presentation at APWeb 2023 about our paper: '*Adversarial Learning of Transitive Semantic Features for Cross-Domain Recommendation*', Hawaii, USA.
 
-<span class='anchor' id='Academic-services'></span>
+<span class='anchor' id='academic-services'></span>
 # 💻 Academic Services
 - *Conference/Journal Reviewers* 
   - Journal Reviewers: IEEE TKDE, IEEE TDSC, IEEE TVT, ACM TSAS, IEEE ACCESS
