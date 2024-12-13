@@ -21,13 +21,6 @@ I'm a Post-doctoral fellow at the School of Computer Science, Institute of Scien
 
 My research interest includes **Personalized Federated Learning**, **Graph Analysis** and **LLMs**.
 
-<span class='anchor' id='news'></span>
-# 🔥 News
-- **2024.03**: &nbsp; One paper is accepted by DASFAA 2024. 
-- **2024.01**: &nbsp; One paper is accepted by ToN. 
-- **2023.12**: &nbsp; One paper is accepted by TKDE. 
-- **2023.11**: &nbsp; One paper is accepted by ICDE 2024. 
-
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 <img src='https://img.shields.io/badge/ICDE%2024-orange'/> [Feed: Towards Personalization-Effective Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597724)
