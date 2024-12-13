@@ -29,7 +29,8 @@ I have published some papers at the top conferences/journals such as ICDE, TKDE,
 - **2023.11**: &nbsp;🎉🎉 One paper is accepted by ICDE 2024. 
 
 # 📝 Publications 
-<img src='https://img.shields.io/badge/KAIS2022-orange'/> [Feed: Towards Personalization-Effective Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597724)
+<img src='https://img.shields.io/badge/ICDE%2024-orange'/> [Feed: Towards Personalization-Effective Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597724)
+
 **Pengpeng Qiao**, Kangfei Zhao, Bei Bi, Zhiwei Zhang, Ye Yuan, Guoren Wang
 - International Conference on Data Engineering (ICDE), 2024, CCF-A.
 
