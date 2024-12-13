@@ -76,7 +76,7 @@ Zhetao Li, **Pengpeng Qiao**(student first-author), Yuanxing Zhang, Kaigui Bian
 Pengyu Zhao, Yuzhe Yang, Yuanxing Zhang, Kaigui Bian, Lingyang Song, **Pengpeng Qiao**, Zhetao Li
 - IEEE Global Communications Conference (GLOBECOM), 2019, CCF-C.
 
-<img src='https://img.shields.io/badge/GlobeCom%2018-orange'/> [Fine-grained collision mitigation control for neighbor discovery in wireless sensor networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8330519)
+<img src='https://img.shields.io/badge/ICCC%2017-orange'/> [Fine-grained collision mitigation control for neighbor discovery in wireless sensor networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8330519)
 
 Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 - IEEE/CIC  International Conference on Communications in China (ICCC), 2017.
