@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Pengpeng Qiao's Homepage"
-description              : "Post-doctoral fellow at the Institute of Science Tokyo, focusing on personalized federated learning with LLMs "
+description              : "Post-doctoral fellow at the Institute of Science Tokyo, focusing on pFL with LLMs "
 repository               : "qpp117/qpp.github.io"
 google_scholar_stats_use_cdn : true
 
