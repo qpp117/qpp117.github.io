@@ -22,7 +22,7 @@ I'm a Post-doctoral fellow at the School of Computer Science, Institute of Scien
 My research interest includes **Personalized Federated Learning**, **Graph Analysis** and **LLMs**.
 
 <span class='anchor' id='publications'></span>
-# 📝 Publications 
+# Publications 
 <img src='https://img.shields.io/badge/ICDE%2024-orange'/> [Feed: Towards Personalization-Effective Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597724)
 
 **Pengpeng Qiao**, Kangfei Zhao, Bei Bi, Zhiwei Zhang, Ye Yuan, Guoren Wang
@@ -76,14 +76,14 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 - IEEE/CIC  International Conference on Communications in China (ICCC), 2017
 
 <span class='anchor' id='invited-talks'></span>
-# 💬 Invited Talks
+# Invited Talks
 - *2024.07*, Oral presentation at DASFAA 2024 about our paper: '*FedSig: A Federated graph Augmentation for Class-Imbalanced Node Classification*', Gifu, Japan.  
 - *2024.05*, Oral presentation at ICDE 2024 about our paper: '*Feed: Towards Personalization-Effective Federated Learning*', Utrecht, Netherlands.
 - *2023.10*, Oral presentation at APWeb 2023 about our paper: '*Detecting Critical Nodes in Hypergraphs via Hypergraph Convolutional Network*', Wuhan, China.
 - *2019.12*, Oral presentation at APWeb 2023 about our paper: '*Adversarial Learning of Transitive Semantic Features for Cross-Domain Recommendation*', Hawaii, USA.
 
 <span class='anchor' id='academic-services'></span>
-# 💻 Academic Services
+# Academic Services
 - *Conference/Journal Reviewers* 
   - Journal Reviewers: IEEE TKDE, IEEE TDSC, IEEE TVT, ACM TSAS, IEEE ACCESS
   - (External) Reviewer: VLDB (2022,2023), ICDE (2022,2023), AAAI (2021,2022）), SIGIR (2021), IJCAI(2022), DASFFA (2023,2024), PAKDD (2022), APWeb (2022,2023), EDBT(2022)
