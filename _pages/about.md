@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a Post-doctoral fellow at the School of Computer Science, Institute of Science Tokyo (formerly Tokyo Tech), advised by Prof. [Yang Cao](https://yangcao888.github.io/). Previously, I received my PhD degree from Beijing Institute of Technology in 2024, advised by Prof. [Zhiwei Zhang](https://cs.bit.edu.cn/szdw/jsml/gjjgccrc/zhangzw_277c6d460a1948d3a60b44170248a1c0/index.htm).
 
-My research interest includes **Personalized Federated Learning** and **Graph Analysis**.
+My research interest includes **Personalized Federated Learning**, **Graph Analysis** and **LLMs**.
 
 <span class='anchor' id='news'></span>
 # 🔥 News
