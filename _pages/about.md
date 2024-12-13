@@ -82,8 +82,10 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.07*, Oral presentation at DASFAA 2024 about our paper: '*FedSig: A Federated graph Augmentation for Class-Imbalanced Node Classification*', Gifu, Japan.  
+- *2024.05*, Oral presentation at ICDE 2024 about our paper: '*Feed: Towards Personalization-Effective Federated Learning*', Utrecht, Netherlands.
+- *2023.10*, Oral presentation at APWeb 2023 about our paper: '*Detecting Critical Nodes in Hypergraphs via Hypergraph Convolutional Network*', Wuhan, China.
+- *2019.12*, Oral presentation at APWeb 2023 about our paper: '*Adversarial Learning of Transitive Semantic Features for Cross-Domain Recommendation*', Hawaii, USA.
 
 # 💻 Academic Services
 - *Conference/Journal Reviewers* 
