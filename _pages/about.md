@@ -23,7 +23,7 @@ My research interest includes **Personalized Federated Learning**, **Graph Analy
 
 <span class='anchor' id='publications'></span>
 # Publications 
-<img src='https://img.shields.io/badge/ICDE%2024-orange'/> [Feed: Towards Personalization-Effective Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597724)
+<img src='https://img.shields.io/badge/ICDE%2024-grey'/> [Feed: Towards Personalization-Effective Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597724)
 
 **Pengpeng Qiao**, Kangfei Zhao, Bei Bi, Zhiwei Zhang, Ye Yuan, Guoren Wang
 - International Conference on Data Engineering (ICDE), 2024, CCF-A
@@ -48,12 +48,10 @@ Chengxin Li, Zhetao Li, Saiqin Long, **Pengpeng Qiao**, Ye Yuan, Guoren Wang
 Beibi, Zhiwei Zhang, **Pengpeng Qiao**, Ye Yuan, Guoren Wang
 - International Conference on Database Systems for Advanced Applications (DASFAA), 2024, CCF-B
 
-
 <img src='https://img.shields.io/badge/APWeb%2023-orange'/> [Detecting Critical Nodes in Hypergraphs via Hypergraph Convolutional Network](https://link.springer.com/chapter/10.1007/978-981-97-2421-5_4)
 
 Zhuang Miao, Fuhui Sun, Xiaoyan Wang, **Pengpeng Qiao**, Kangfei Zhao, Yadong Wang, Zhiwei Zhang, and George Y. Yuan
 - APWeb-WAIM International Joint Conference on Web and Big Data (APWeb), 2023, CCF-C
-
 
 <img src='https://img.shields.io/badge/WISE%2022-orange'/> [Efficient Truss Computation for Large Hypergraphs](https://link.springer.com/chapter/10.1007/978-3-031-20891-1_21)
 
