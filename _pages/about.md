@@ -88,6 +88,7 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 - *2023.10*, Oral presentation at APWeb 2023 about our paper: '*Detecting Critical Nodes in Hypergraphs via Hypergraph Convolutional Network*', Wuhan, China.
 - *2019.12*, Oral presentation at APWeb 2023 about our paper: '*Adversarial Learning of Transitive Semantic Features for Cross-Domain Recommendation*', Hawaii, USA.
 
+<span class='anchor' id='Academic-services'></span>
 # 💻 Academic Services
 - *Conference/Journal Reviewers* 
   - Journal Reviewers: IEEE TKDE, IEEE TDSC, IEEE TVT, ACM TSAS, IEEE ACCESS
