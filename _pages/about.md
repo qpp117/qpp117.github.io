@@ -87,7 +87,7 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
   - Journal Reviewers: IEEE TKDE, IEEE TDSC, IEEE TVT, ACM TSAS, IEEE ACCESS, The Computer Journal
   - (External) Reviewer: VLDB (2022,2023), ICDE (2022,2023), AAAI (2021,2022）), SIGIR (2021), IJCAI(2022), DASFFA (2023,2024), PAKDD (2022), APWeb (2022,2023), EDBT(2022)
 - *Editorial/Organizing Committee Member* 
-  - Registration chair \& Session chair, Australasian Database Conference ([ADC](https://adc-conference.github.io/2024/organisation)) 2024.
+  - Registration chair &amp; Session chair, Australasian Database Conference ([ADC](https://adc-conference.github.io/2024/organisation)) 2024.
 
 
 
