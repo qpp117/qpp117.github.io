@@ -24,6 +24,11 @@ I am looking for any form of academic cooperation. If you are interested in coll
 
 <span class='anchor' id='publications'></span>
 # Publications 
+<img src='https://img.shields.io/badge/DASFAA%2025-4C81ED'/> [Breaking Free from Label Limitations: A Novel Unsupervised Attack Method for Graph Classification]()
+
+Yadong Wang, Zhiwei Zhang, **Pengpeng Qiao**, Ye Yuan, Hao Zhang, Guoren Wang
+- International Conference on Database Systems for Advanced Applications (DASFAA), 2025, CCF-B
+
 <img src='https://img.shields.io/badge/ICDE%2024-4C81ED'/> [Feed: Towards Personalization-Effective Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597724)
 
 **Pengpeng Qiao**, Kangfei Zhao, Bei Bi, Zhiwei Zhang, Ye Yuan, Guoren Wang
