@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Post-doctoral fellow at the School of Computer Science, Institute of Science Tokyo (formerly Tokyo Tech), advised by Prof. [Yang Cao](https://yangcao888.github.io/). Previously, I received my PhD degree from Beijing Institute of Technology in 2024, advised by Prof. [Zhiwei Zhang](https://cs.bit.edu.cn/szdw/jsml/gjjgccrc/zhangzw_277c6d460a1948d3a60b44170248a1c0/index.htm), [Ye Yuan](https://cs.bit.edu.cn/szdw/jsml/gjjgccrc/yy_620010b7859c41d0878df362215a3c10/index.htm) and [Guoren Wang](https://cs.bit.edu.cn/szdw/jsml/gjjgccrc/wgr_9222aafdaa7c4daf94463e4136277e5b/index.htm).
+I'm a Post-doctoral fellow at the School of Computer Science, Institute of Science Tokyo (formerly Tokyo Institute of Technology), advised by Prof. [Yang Cao](https://yangcao888.github.io/). Previously, I received my PhD degree from Beijing Institute of Technology in 2024, advised by Prof. [Zhiwei Zhang](https://cs.bit.edu.cn/szdw/jsml/gjjgccrc/zhangzw_277c6d460a1948d3a60b44170248a1c0/index.htm), [Ye Yuan](https://cs.bit.edu.cn/szdw/jsml/gjjgccrc/yy_620010b7859c41d0878df362215a3c10/index.htm) and [Guoren Wang](https://cs.bit.edu.cn/szdw/jsml/gjjgccrc/wgr_9222aafdaa7c4daf94463e4136277e5b/index.htm).
 
 My research interest includes **Personalized Federated Learning**, **Graph Analysis** and **LLMs**.
 I am looking for any form of academic cooperation. If you are interested in collaborating with me, please feel free to email me.
