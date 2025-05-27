@@ -99,6 +99,6 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 - *Editorial/Organizing Committee Member* 
   - Registration chair, Session chair, Australasian Database Conference ([ADC](https://adc-conference.github.io/2024/organisation)) 2024.
   - Publicity chair, The Thirteenth International Conference on Advanced Cloud and Big Data ([CBD](https://cbd-conference.net/2025/home)) 2025.
-  - Publicity chair, The 19th International Conference on Provable and Practical Security ([ProvSec](https://sulab-sever.u-aizu.ac.jp/provsec2025/index.html)) 2025.
+  - Publicity chair, The 19th International Conference on Provable and Practical Security ([ProvSec](https://sulab-sever.u-aizu.ac.jp/provsec2025/committee.html)) 2025.
   - Registration chair, Australasian Database Conference ([ADMA](https://adma2025.github.io/)) 2025.
 
