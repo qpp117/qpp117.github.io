@@ -24,7 +24,7 @@ I am looking for any form of academic cooperation. If you are interested in coll
 
 <span class='anchor' id='publications'></span>
 # Publications 
-<img src='https://img.shields.io/badge/ECML-PKDD%2025-4C81ED'/> [Backdoor Attacks on Graph Classification via Data Augmentation and Dynamic Poisoning]()
+<img src='https://img.shields.io/badge/ECML\-PKDD%2025-4C81ED'/> [Backdoor Attacks on Graph Classification via Data Augmentation and Dynamic Poisoning]()
 
 Yadong Wang, Zhiwei Zhang, **Pengpeng Qiao**, Ye Yuan, Guoren Wang
 - European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2025, CCF-B
