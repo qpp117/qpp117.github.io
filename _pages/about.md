@@ -24,6 +24,11 @@ I am looking for any form of academic cooperation. If you are interested in coll
 
 <span class='anchor' id='publications'></span>
 # Publications 
+<img src='https://img.shields.io/badge/ECML-PKDD%2025-4C81ED'/> [Backdoor Attacks on Graph Classification via Data Augmentation and Dynamic Poisoning]()
+
+Yadong Wang, Zhiwei Zhang, **Pengpeng Qiao**, Ye Yuan, Guoren Wang
+- European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2025, CCF-B
+
 <img src='https://img.shields.io/badge/DASFAA%2025-4C81ED'/> [Breaking Free from Label Limitations: A Novel Unsupervised Attack Method for Graph Classification]()
 
 Yadong Wang, Zhiwei Zhang, **Pengpeng Qiao**, Ye Yuan, Hao Zhang, Guoren Wang
@@ -93,6 +98,7 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
   - (External) Reviewer: VLDB (2022,2023), ICDE (2022,2023), AAAI (2021,2022）), SIGIR (2021), IJCAI(2022), DASFFA (2023,2024), PAKDD (2022), APWeb (2022,2023), EDBT(2022)
 - *Editorial/Organizing Committee Member* 
   - Registration chair, Session chair, Australasian Database Conference ([ADC](https://adc-conference.github.io/2024/organisation)) 2024.
-
-
+  - Publicity chair, The Thirteenth International Conference on Advanced Cloud and Big Data ([CBD](https://cbd-conference.net/2025/home)) 2025.
+  - Publicity chair, The 19th International Conference on Provable and Practical Security ([ProvSec](https://sulab-sever.u-aizu.ac.jp/provsec2025/index.html)) 2025.
+  - Registration chair, Australasian Database Conference ([ADMA](https://adma2025.github.io/)) 2025.
 
