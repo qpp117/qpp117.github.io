@@ -27,7 +27,7 @@ I am looking for any form of academic cooperation. If you are interested in coll
 <img src='https://img.shields.io/badge/VLDB%2025-4C81ED'/> [Continuous Publication of Weighted Graphs with Local Differential Privacy]()
 
 Wen Xu, **Pengpeng Qiao<sup>*</sup>**, Shang Liu, Zhirun Zheng, Yang Cao, Zhetao Li
-- International Conference on Very Large Data Bases (VLDB), 2025, CCF-A
+- International Conference on Very Large Data Bases (VLDB), 2025, CCF-A, <font color=red>SPEND travel award</font>
 
 <img src='https://img.shields.io/badge/ECMLPKDD%2025-4C81ED'/> [Backdoor Attacks on Graph Classification via Data Augmentation and Dynamic Poisoning]()
 
