@@ -103,8 +103,8 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
   - Journal Reviewers: IEEE TKDE, IEEE TDSC, IEEE TVT, ACM TSAS, IEEE ACCESS, The Computer Journal, TMC
   - Conference Reviewer (Including external): VLDB‘22,23,24, ICDE’22,23,25, AAAI‘21,22, SIGIR’21, IJCAI‘22, DASFFA’23,24, PAKDD‘22,23, APWeb’22,23, EDBT‘22, CIKM'24, MM'25, CCS‘25, ADMA’25 (meta reviewer), ECML-PKDD'25, AsiaCCS‘26
 - *Editorial/Organizing Committee Member* 
-  - Registration chair, Session chair, Australasian Database Conference ([ADC](https://adc-conference.github.io/2024/organisation)) 2024.
-  - Local Organization chair, The 13th International Conference on Advanced Cloud and Big Data ([CBD](https://cbd-conference.net/2025/organizing-committee)) 2025.
-  - Publicity chair, The 19th International Conference on Provable and Practical Security ([ProvSec](https://sulab-sever.u-aizu.ac.jp/provsec2025/committee.html)) 2025.
-  - Registration chair, The 21st International Conference on Advanced Data Mining and Applications  ([ADMA](https://adma2025.github.io/organisation_committee.html)) 2025.
+  - Registration Chair, Session chair, Australasian Database Conference ([ADC](https://adc-conference.github.io/2024/organisation)) 2024.
+  - Local Organization Chair, The 13th International Conference on Advanced Cloud and Big Data ([CBD](https://cbd-conference.net/2025/organizing-committee)) 2025.
+  - Publicity Chair, The 19th International Conference on Provable and Practical Security ([ProvSec](https://sulab-sever.u-aizu.ac.jp/provsec2025/committee.html)) 2025.
+  - Registration Chair, The 21st International Conference on Advanced Data Mining and Applications  ([ADMA](https://adma2025.github.io/organisation_committee.html)) 2025.
 
