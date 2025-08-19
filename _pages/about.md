@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a Post-doctoral fellow at the School of Computer Science, Institute of Science Tokyo (formerly Tokyo Institute of Technology), advised by Prof. [Yang Cao](https://yangcao888.github.io/) in Nov 2024. Previously, I received my PhD degree from Beijing Institute of Technology in 2024, advised by Prof. [Zhiwei Zhang](https://cs.bit.edu.cn/szdw/jsml/gjjgccrc/zhangzw_277c6d460a1948d3a60b44170248a1c0/index.htm), [Ye Yuan](https://cs.bit.edu.cn/szdw/jsml/gjjgccrc/yy_620010b7859c41d0878df362215a3c10/index.htm) and [Guoren Wang](https://cs.bit.edu.cn/szdw/jsml/gjjgccrc/wgr_9222aafdaa7c4daf94463e4136277e5b/index.htm).
 
-My research interest includes **Personalized Federated Learning**, **Graph Analysis**, **Privacy** and **LLMs**.
+My research interests include **Personalized Federated Learning**, **Graph Analysis**, **Privacy** and **LLMs**.
 I am looking for any form of academic cooperation. If you are interested in collaborating with me, please feel free to email me.
 
 <span class='anchor' id='publications'></span>
@@ -91,6 +91,7 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 
 <span class='anchor' id='invited-talks'></span>
 # Invited Talks
+- *2025.08*, One talk is invited at NDBC 2025 about our research: '*MoE-Enhanced Personalized Federated Learning*', Changchun, China.  
 - *2024.07*, Oral presentation at DASFAA 2024 about our paper: '*FedSig: A Federated graph Augmentation for Class-Imbalanced Node Classification*', Gifu, Japan.  
 - *2024.05*, Oral presentation at ICDE 2024 about our paper: '*Feed: Towards Personalization-Effective Federated Learning*', Utrecht, Netherlands.
 - *2023.10*, Oral presentation at APWeb 2023 about our paper: '*Detecting Critical Nodes in Hypergraphs via Hypergraph Convolutional Network*', Wuhan, China.
@@ -103,7 +104,7 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
   - Conference Reviewer (Including external): VLDB‘22,23,24, ICDE’22,23,25, AAAI‘21,22, SIGIR’21, IJCAI‘22, DASFFA’23,24, PAKDD‘22,23, APWeb’22,23, EDBT‘22, CIKM'24, MM'25, CCS‘25, ADMA’25 (meta reviewer), ECML-PKDD'25, AsiaCCS‘26
 - *Editorial/Organizing Committee Member* 
   - Registration chair, Session chair, Australasian Database Conference ([ADC](https://adc-conference.github.io/2024/organisation)) 2024.
-  - Publicity chair, The 13th International Conference on Advanced Cloud and Big Data ([CBD](https://cbd-conference.net/2025/organizing-committee)) 2025.
+  - Local Organization chair, The 13th International Conference on Advanced Cloud and Big Data ([CBD](https://cbd-conference.net/2025/organizing-committee)) 2025.
   - Publicity chair, The 19th International Conference on Provable and Practical Security ([ProvSec](https://sulab-sever.u-aizu.ac.jp/provsec2025/committee.html)) 2025.
-  - Registration chair, The 21st International Conference on Advanced Data Mining and Applications  ([ADMA](https://adma2025.github.io/)) 2025.
+  - Registration chair, The 21st International Conference on Advanced Data Mining and Applications  ([ADMA](https://adma2025.github.io/organisation_committee.html)) 2025.
 
