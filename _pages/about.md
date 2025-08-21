@@ -24,12 +24,12 @@ I am looking for any form of academic cooperation. If you are interested in coll
 
 <span class='anchor' id='publications'></span>
 # Publications 
-<img src='https://img.shields.io/badge/VLDB%2025-4C81ED'/> [Continuous Publication of Weighted Graphs with Local Differential Privacy]()
+<img src='https://img.shields.io/badge/VLDB%2025-4C81ED'/> [Continuous Publication of Weighted Graphs with Local Differential Privacy](https://www.vldb.org/pvldb/vol18/p4214-li.pdf)
 
 Wen Xu, **Pengpeng Qiao<sup>*</sup>**, Shang Liu, Zhirun Zheng, Yang Cao, Zhetao Li
 - International Conference on Very Large Data Bases (VLDB), 2025, CCF-A, <font color=red>SPEND travel award</font>
 
-<img src='https://img.shields.io/badge/ECMLPKDD%2025-4C81ED'/> [Backdoor Attacks on Graph Classification via Data Augmentation and Dynamic Poisoning]()
+<img src='https://img.shields.io/badge/ECMLPKDD%2025-4C81ED'/> [Backdoor Attacks on Graph Classification via Data Augmentation and Dynamic Poisoning](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/research/preprint_ecml_pkdd_2025_research_454.pdf)
 
 Yadong Wang, Zhiwei Zhang, **Pengpeng Qiao**, Ye Yuan, Guoren Wang
 - European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2025, CCF-B
