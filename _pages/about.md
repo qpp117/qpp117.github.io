@@ -34,7 +34,7 @@ Wen Xu, **Pengpeng Qiao<sup>*</sup>**, Shang Liu, Zhirun Zheng, Yang Cao, Zhetao
 Yadong Wang, Zhiwei Zhang, **Pengpeng Qiao**, Ye Yuan, Guoren Wang
 - European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2025, CCF-B
 
-<img src='https://img.shields.io/badge/DASFAA%2025-4C81ED'/> [Breaking Free from Label Limitations: A Novel Unsupervised Attack Method for Graph Classification]()
+<img src='https://img.shields.io/badge/DASFAA%2025-4C81ED'/> [Breaking Free from Label Limitations: A Novel Unsupervised Attack Method for Graph Classification](https://dasfaa2025.github.io/paper/research/research_396_paper.pdf)
 
 Yadong Wang, Zhiwei Zhang, **Pengpeng Qiao**, Ye Yuan, Hao Zhang, Guoren Wang
 - International Conference on Database Systems for Advanced Applications (DASFAA), 2025, CCF-B
