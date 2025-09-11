@@ -91,6 +91,7 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 
 <span class='anchor' id='invited-talks'></span>
 # Invited Talks
+- *2025.09*, Oral presentation at VLDB 2024 about our paper: '*Continuous Publication of weighted Graphs with Local differential Privacy*', London, UK.  
 - *2025.08*, One talk is invited at NDBC 2025 about our research: '*MoE-Enhanced Personalized Federated Learning*', Changchun, China.  
 - *2024.07*, Oral presentation at DASFAA 2024 about our paper: '*FedSig: A Federated graph Augmentation for Class-Imbalanced Node Classification*', Gifu, Japan.  
 - *2024.05*, Oral presentation at ICDE 2024 about our paper: '*Feed: Towards Personalization-Effective Federated Learning*', Utrecht, Netherlands.
