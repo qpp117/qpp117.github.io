@@ -24,25 +24,35 @@ I am looking for any form of academic cooperation. If you are interested in coll
 
 <span class='anchor' id='publications'></span>
 # Publications 
+<img src='https://img.shields.io/badge/KDD%2026-4C81ED'/> [Faico: Faithful and Complete Knowledge Graph Augmented Reasoning](https://openreview.net/pdf?id=KL7c6xvp00)
+
+Guo_Cheng, Kangfei Zhao, Ke Ye, **Pengpeng Qiao**, Zhiwei Zhang, Saiguang Che, Shaonan Ma, Mingxing Zhang
+- ACM Conference on Knowledge Discovery and Data Mining (KDD 2026), CCF-A
+
 <img src='https://img.shields.io/badge/VLDB%2025-4C81ED'/> [Continuous Publication of Weighted Graphs with Local Differential Privacy](https://www.vldb.org/pvldb/vol18/p4214-li.pdf)
 
 Wen Xu, **Pengpeng Qiao<sup>*</sup>**, Shang Liu, Zhirun Zheng, Yang Cao, Zhetao Li
-- International Conference on Very Large Data Bases (VLDB), 2025, CCF-A, <font color=red>SPEND travel award</font>
+- International Conference on Very Large Data Bases (VLDB 2025), CCF-A, <font color=red>SPEND travel award</font>
 
 <img src='https://img.shields.io/badge/ECMLPKDD%2025-4C81ED'/> [Backdoor Attacks on Graph Classification via Data Augmentation and Dynamic Poisoning](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/research/preprint_ecml_pkdd_2025_research_454.pdf)
 
 Yadong Wang, Zhiwei Zhang, **Pengpeng Qiao**, Ye Yuan, Guoren Wang
-- European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2025, CCF-B
+- European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2025), CCF-B
 
 <img src='https://img.shields.io/badge/DASFAA%2025-4C81ED'/> [Breaking Free from Label Limitations: A Novel Unsupervised Attack Method for Graph Classification](https://dasfaa2025.github.io/paper/research/research_396_paper.pdf)
 
 Yadong Wang, Zhiwei Zhang, **Pengpeng Qiao**, Ye Yuan, Hao Zhang, Guoren Wang
-- International Conference on Database Systems for Advanced Applications (DASFAA), 2025, CCF-B
+- International Conference on Database Systems for Advanced Applications (DASFAA 2025), CCF-B
 
 <img src='https://img.shields.io/badge/ICDE%2024-4C81ED'/> [Feed: Towards Personalization-Effective Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597724)
 
+<img src='https://img.shields.io/badge/ADC%2025-4C81ED'/> [Pursuit of Truth: Incentive Mechanism Involving Privacy Demands in Mobile Crowdsourcing]()
+
+Ping Wang, **Pengpeng Qiao<sup>*</sup>**, Yang Cao, Tao Feng
+- The Australasian Database Conference (ADC 2025)
+
 **Pengpeng Qiao**, Kangfei Zhao, Bei Bi, Zhiwei Zhang, Ye Yuan, Guoren Wang
-- International Conference on Data Engineering (ICDE), 2024, CCF-A
+- International Conference on Data Engineering (ICDE 2024), CCF-A
 
 <img src='https://img.shields.io/badge/TKDE%2024-4C81ED'/> [AStore: Uniformed Adaptive Learned Index and Cache for RDMA-enabled Key-Value Store](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402111)
 
@@ -62,32 +72,32 @@ Chengxin Li, Zhetao Li, Saiqin Long, **Pengpeng Qiao**, Ye Yuan, Guoren Wang
 <img src='https://img.shields.io/badge/DASFAA%2024-4C81ED'/> [FedSig: A Federated graph Augmentation for Class-Imbalanced Node Classification](https://link.springer.com/chapter/10.1007/978-981-97-5552-3_32)
 
 Beibi, Zhiwei Zhang, **Pengpeng Qiao**, Ye Yuan, Guoren Wang
-- International Conference on Database Systems for Advanced Applications (DASFAA), 2024, CCF-B
+- International Conference on Database Systems for Advanced Applications (DASFAA 2024), CCF-B
 
 <img src='https://img.shields.io/badge/APWeb%2023-4C81ED'/> [Detecting Critical Nodes in Hypergraphs via Hypergraph Convolutional Network](https://link.springer.com/chapter/10.1007/978-981-97-2421-5_4)
 
 Zhuang Miao, Fuhui Sun, Xiaoyan Wang, **Pengpeng Qiao**, Kangfei Zhao, Yadong Wang, Zhiwei Zhang, and George Y. Yuan
-- APWeb-WAIM International Joint Conference on Web and Big Data (APWeb), 2023, CCF-C
+- APWeb-WAIM International Joint Conference on Web and Big Data (APWeb 2023), CCF-C
 
 <img src='https://img.shields.io/badge/WISE%2022-4C81ED'/> [Efficient Truss Computation for Large Hypergraphs](https://link.springer.com/chapter/10.1007/978-3-031-20891-1_21)
 
 Xinzhou Wang, Yinjia Chen, Zhiwei Zhang, **Pengpeng Qiao**, Guoren Wang
-- International Conference on Web Information Systems Engineering (WISE), 2022, CCF-C
+- International Conference on Web Information Systems Engineering (WISE 2022), CCF-C
 
 <img src='https://img.shields.io/badge/GlobeCom%2019-4C81ED'/> [Adversarial Learning of Transitive Semantic Features for Cross-Domain Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9013898)
 
-Zhetao Li, **Pengpeng Qiao**(student first-author), Yuanxing Zhang, Kaigui Bian
-- IEEE Global Communications Conference (GLOBECOM), 2019, CCF-C, <font color=red>Best Conference Paper Award of TCBD</font>
+Zhetao Li, **Pengpeng Qiao**, Yuanxing Zhang, Kaigui Bian
+- IEEE Global Communications Conference (GLOBECOM 2019), CCF-C, <font color=red>Best Conference Paper Award of TCBD</font>
 
 <img src='https://img.shields.io/badge/GlobeCom%2018-4C81ED'/> [Optimal trajectory planning of drones for 3D mobile sensing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8647796)
 
 Pengyu Zhao, Yuzhe Yang, Yuanxing Zhang, Kaigui Bian, Lingyang Song, **Pengpeng Qiao**, Zhetao Li
-- IEEE Global Communications Conference (GLOBECOM), 2019, CCF-C
+- IEEE Global Communications Conference (GLOBECOM 2019), CCF-C
 
 <img src='https://img.shields.io/badge/ICCC%2017-4C81ED'/> [Fine-grained collision mitigation control for neighbor discovery in wireless sensor networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8330519)
 
 Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
-- IEEE/CIC  International Conference on Communications in China (ICCC), 2017
+- IEEE/CIC  International Conference on Communications in China (ICCC 2017)
 
 <span class='anchor' id='invited-talks'></span>
 # Invited Talks
@@ -102,10 +112,10 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 # Academic Services
 - *Conference/Journal Reviewers* 
   - Journal Reviewers: IEEE TKDE, IEEE TDSC, IEEE TVT, ACM TSAS, IEEE ACCESS, The Computer Journal, TMC
-  - Conference Reviewer (Including external): VLDB‘22,23,24, ICDE’22,23,25, AAAI‘21,22, SIGIR’21, IJCAI‘22, DASFFA’23,24, PAKDD‘22,23, APWeb’22,23, EDBT‘22, CIKM'24, MM'25, CCS‘25, ADMA’25 (meta reviewer), ECML-PKDD'25, AsiaCCS‘26
-- *Editorial/Organizing Committee Member* 
-  - Registration Chair, Session chair, Australasian Database Conference ([ADC](https://adc-conference.github.io/2024/organisation)) 2024.
-  - Local Organization Chair, The 13th International Conference on Advanced Cloud and Big Data ([CBD](https://cbd-conference.net/2025/organizing-committee)) 2025.
+  - Conference Reviewer (Including external): VLDB‘22,23,24, ICDE’22,23,25, AAAI‘21,22, SIGIR’21, IJCAI‘22, DASFFA’23,24, PAKDD‘22,23, APWeb’22,23, EDBT‘22, CIKM'24, MM'25, CCS‘25, ADMA’25 (meta reviewer), ECML-PKDD'25, CoNEXT'25, AsiaCCS‘26, WWW'26
+- *Organizing Committee Member* 
+  - Registration Chair, Session Chair, Australasian Database Conference ([ADC](https://adc-conference.github.io/2024/organisation)) 2024.
+  - Publicity Chair, Session Chair, The 13th International Conference on Advanced Cloud and Big Data ([CBD](https://cbd-conference.net/2025/organizing-committee)) 2025.
   - Publicity Chair, The 19th International Conference on Provable and Practical Security ([ProvSec](https://sulab-sever.u-aizu.ac.jp/provsec2025/committee.html)) 2025.
-  - Registration Chair, The 21st International Conference on Advanced Data Mining and Applications  ([ADMA](https://adma2025.github.io/organisation_committee.html)) 2025.
+  - Registration Chair, Session Chair, The 21st International Conference on Advanced Data Mining and Applications  ([ADMA](https://adma2025.github.io/organisation_committee.html)) 2025.
 
