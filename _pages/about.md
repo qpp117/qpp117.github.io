@@ -26,7 +26,7 @@ I am looking for any form of academic cooperation. If you are interested in coll
 # Publications 
 <img src='https://img.shields.io/badge/KDD%2026-4C81ED'/> [Faico: Faithful and Complete Knowledge Graph Augmented Reasoning](https://openreview.net/pdf?id=KL7c6xvp00)
 
-Guo_Cheng, Kangfei Zhao, Ke Ye, **Pengpeng Qiao**, Zhiwei Zhang, Saiguang Che, Shaonan Ma, Mingxing Zhang
+Guo Cheng, Kangfei Zhao, Ke Ye, **Pengpeng Qiao**, Zhiwei Zhang, Saiguang Che, Shaonan Ma, Mingxing Zhang
 - ACM Conference on Knowledge Discovery and Data Mining (KDD 2026), CCF-A
 
 <img src='https://img.shields.io/badge/VLDB%2025-4C81ED'/> [Continuous Publication of Weighted Graphs with Local Differential Privacy](https://www.vldb.org/pvldb/vol18/p4214-li.pdf)
