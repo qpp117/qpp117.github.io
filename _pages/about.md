@@ -115,7 +115,7 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
   - Conference Reviewer (Including external): VLDB‘22,23,24, ICDE’22,23,25, AAAI‘21,22, SIGIR’21, IJCAI‘22, DASFFA’23,24, PAKDD‘22,23, APWeb’22,23, EDBT‘22, CIKM'24, MM'25, CCS‘25, ADMA’25 (meta reviewer), ECML-PKDD'25, CoNEXT'25, AsiaCCS‘26, WWW'26
 - *Organizing Committee Member* 
   - Registration Chair, Session Chair, Australasian Database Conference ([ADC](https://adc-conference.github.io/2024/organisation)) 2024.
-  - Publicity Chair, Session Chair, The 13th International Conference on Advanced Cloud and Big Data ([CBD](https://cbd-conference.net/2025/organizing-committee)) 2025.
+  - Local Chair, Session Chair, The 13th International Conference on Advanced Cloud and Big Data ([CBD](https://cbd-conference.net/2025/organizing-committee)) 2025.
   - Publicity Chair, The 19th International Conference on Provable and Practical Security ([ProvSec](https://sulab-sever.u-aizu.ac.jp/provsec2025/committee.html)) 2025.
   - Registration Chair, Session Chair, The 21st International Conference on Advanced Data Mining and Applications  ([ADMA](https://adma2025.github.io/organisation_committee.html)) 2025.
 
