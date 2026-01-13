@@ -24,6 +24,11 @@ I am looking for any form of academic cooperation. If you are interested in coll
 
 <span class='anchor' id='publications'></span>
 # Publications 
+<img src='https://img.shields.io/badge/WWW%2026-4C81ED'/> [Spattack: Subgroup Poisoning Attacks on Federated Recommender Systems](https://arxiv.org/pdf/2507.06258)
+
+Bo Yan, Yurong Hao, Dingqi Liu, Huabin Sun, **Pengpeng Qiao**, Wei Yang Bryan Lim, Yang Cao, Chuan Shi
+- The ACM Web Conference (WWW 2026), CCF-A
+
 <img src='https://img.shields.io/badge/KDD%2026-4C81ED'/> [Faico: Faithful and Complete Knowledge Graph Augmented Reasoning](https://openreview.net/pdf?id=KL7c6xvp00)
 
 Guo Cheng, Kangfei Zhao, Ke Ye, **Pengpeng Qiao**, Zhiwei Zhang, Saiguang Che, Shaonan Ma, Mingxing Zhang
@@ -37,7 +42,7 @@ Wen Xu, **Pengpeng Qiao<sup>*</sup>**, Shang Liu, Zhirun Zheng, Yang Cao, Zhetao
 <img src='https://img.shields.io/badge/TMC%2025-4C81ED'/> [Task Offloading and Resource Scheduling in Full-Duplex Cell-Free Massive MIMO-Enabled Edge Computing Networks]()
 
 Shujuan Tian, Lianheng Chen, Xingxia Dai, Yanchun Li, **Pengpeng Qiao**, Hiroo Sekiya
-- IEEE Transactions on Mobile Computing (TMC), CCF-A
+- IEEE Transactions on Mobile Computing (TMC 2025), CCF-A
 
 <img src='https://img.shields.io/badge/ECMLPKDD%2025-4C81ED'/> [Backdoor Attacks on Graph Classification via Data Augmentation and Dynamic Poisoning](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/research/preprint_ecml_pkdd_2025_research_454.pdf)
 
