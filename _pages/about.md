@@ -57,7 +57,7 @@ Yadong Wang, Zhiwei Zhang, **Pengpeng Qiao**, Ye Yuan, Hao Zhang, Guoren Wang
 <img src='https://img.shields.io/badge/ADC%2025-4C81ED'/> [Pursuit of Truth: Incentive Mechanism Involving Privacy Demands in Mobile Crowdsourcing]()
 
 Ping Wang, **Pengpeng Qiao<sup>*</sup>**, Yang Cao, Tao Feng
-- The Australasian Database Conference (ADC 2025), <font color=red>Best Paper Award</font>
+- The Australasian Database Conference (ADC 2025), <font color=red>Best Conference Paper Award</font>
 
 <img src='https://img.shields.io/badge/ICDE%2024-4C81ED'/> [Feed: Towards Personalization-Effective Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597724)
 
