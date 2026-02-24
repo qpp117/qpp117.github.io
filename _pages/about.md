@@ -42,7 +42,7 @@ Guo Cheng, Kangfei Zhao, Ke Ye, **Pengpeng Qiao**, Zhiwei Zhang, Saiguang Che, S
 <img src='https://img.shields.io/badge/TMC%2025-4C81ED'/> [Privacy-Preserving Yet Vulnerable: Data Poisoning Attacks Against Differential Privacy Sparse Mobile Crowdsensing System]()
 
 Chengxin Li, Yujie Gu, **Pengpeng Qiao<sup>*</sup>**, Shengli Pan, Kouichi Sakurai, Zhetao Li
-- IEEE Transactions on Mobile Computing (TMC 2026), CCF-A
+- IEEE Transactions on Mobile Computing (TMC), 2026, CCF-A
 
 <img src='https://img.shields.io/badge/VLDB%2025-4C81ED'/> [Continuous Publication of Weighted Graphs with Local Differential Privacy](https://www.vldb.org/pvldb/vol18/p4214-li.pdf)
 
@@ -52,7 +52,7 @@ Wen Xu, **Pengpeng Qiao<sup>*</sup>**, Shang Liu, Zhirun Zheng, Yang Cao, Zhetao
 <img src='https://img.shields.io/badge/TMC%2025-4C81ED'/> [Task Offloading and Resource Scheduling in Full-Duplex Cell-Free Massive MIMO-Enabled Edge Computing Networks]()
 
 Shujuan Tian, Lianheng Chen, Xingxia Dai, Yanchun Li, **Pengpeng Qiao**, Hiroo Sekiya
-- IEEE Transactions on Mobile Computing (TMC 2025), CCF-A
+- IEEE Transactions on Mobile Computing (TMC), 2025, CCF-A
 
 <img src='https://img.shields.io/badge/ECMLPKDD%2025-4C81ED'/> [Backdoor Attacks on Graph Classification via Data Augmentation and Dynamic Poisoning](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/research/preprint_ecml_pkdd_2025_research_454.pdf)
 
