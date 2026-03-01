@@ -119,6 +119,10 @@ Pengyu Zhao, Yuzhe Yang, Yuanxing Zhang, Kaigui Bian, Lingyang Song, **Pengpeng 
 Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 - IEEE/CIC  International Conference on Communications in China (ICCC 2017)
 
+<span class='anchor' id='Research Grants'></span>
+# Research Grants
+- PI: JSPS Grant-in-Aid for Early-Career Scientists, Efficient and Privacy-Aware Personalized Federated Fine-Tuning of Large Language Models, 2026.4-2028.3.  
+
 <span class='anchor' id='invited-talks'></span>
 # Invited Talks
 - *2025.09*, Oral presentation at VLDB 2024 about our paper: '*Continuous Publication of weighted Graphs with Local differential Privacy*', London, UK.  
