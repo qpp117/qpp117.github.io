@@ -102,7 +102,7 @@ Zhuang Miao, Fuhui Sun, Xiaoyan Wang, **Pengpeng Qiao**, Kangfei Zhao, Yadong Wa
 <img src='https://img.shields.io/badge/WISE%2022-4C81ED'/> [Efficient Truss Computation for Large Hypergraphs](https://link.springer.com/chapter/10.1007/978-3-031-20891-1_21)
 
 Xinzhou Wang, Yinjia Chen, Zhiwei Zhang, **Pengpeng Qiao**, Guoren Wang
-- International Conference on Web Information Systems Engineering (WISE 2022), CCF-C
+- International Conference on Web Information Systems Engineering (WISE 2022), CCF-B
 
 <img src='https://img.shields.io/badge/GlobeCom%2019-4C81ED'/> [Adversarial Learning of Transitive Semantic Features for Cross-Domain Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9013898)
 
