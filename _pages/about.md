@@ -94,15 +94,15 @@ Chengxin Li, Zhetao Li, Saiqin Long, **Pengpeng Qiao**, Ye Yuan, Guoren Wang
 Beibi, Zhiwei Zhang, **Pengpeng Qiao**, Ye Yuan, Guoren Wang
 - International Conference on Database Systems for Advanced Applications (DASFAA 2024), CCF-B
 
-<img src='https://img.shields.io/badge/APWeb%2023-4C81ED'/> [Detecting Critical Nodes in Hypergraphs via Hypergraph Convolutional Network](https://link.springer.com/chapter/10.1007/978-981-97-2421-5_4)
-
-Zhuang Miao, Fuhui Sun, Xiaoyan Wang, **Pengpeng Qiao**, Kangfei Zhao, Yadong Wang, Zhiwei Zhang, and George Y. Yuan
-- APWeb-WAIM International Joint Conference on Web and Big Data (APWeb 2023), CCF-C
-
 <img src='https://img.shields.io/badge/WISE%2022-4C81ED'/> [Efficient Truss Computation for Large Hypergraphs](https://link.springer.com/chapter/10.1007/978-3-031-20891-1_21)
 
 Xinzhou Wang, Yinjia Chen, Zhiwei Zhang, **Pengpeng Qiao**, Guoren Wang
 - International Conference on Web Information Systems Engineering (WISE 2022), CCF-B
+
+<img src='https://img.shields.io/badge/APWeb%2023-4C81ED'/> [Detecting Critical Nodes in Hypergraphs via Hypergraph Convolutional Network](https://link.springer.com/chapter/10.1007/978-981-97-2421-5_4)
+
+Zhuang Miao, Fuhui Sun, Xiaoyan Wang, **Pengpeng Qiao**, Kangfei Zhao, Yadong Wang, Zhiwei Zhang, and George Y. Yuan
+- APWeb-WAIM International Joint Conference on Web and Big Data (APWeb 2023), CCF-C
 
 <img src='https://img.shields.io/badge/GlobeCom%2019-4C81ED'/> [Adversarial Learning of Transitive Semantic Features for Cross-Domain Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9013898)
 
