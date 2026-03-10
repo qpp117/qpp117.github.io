@@ -39,12 +39,12 @@ Bo Yan, Yurong Hao, Dingqi Liu, Huabin Sun, **Pengpeng Qiao**, Wei Yang Bryan Li
 Guo Cheng, Kangfei Zhao, Ke Ye, **Pengpeng Qiao**, Zhiwei Zhang, Saiguang Che, Shaonan Ma, Mingxing Zhang
 - ACM Conference on Knowledge Discovery and Data Mining (KDD 2026), CCF-A
 
-<img src='https://img.shields.io/badge/TMC%2025-4C81ED'/> [Fairness-Aware Online Slicing and Adaptive Pricing in Multi-Tenant Computing Networks]()
+<img src='https://img.shields.io/badge/TMC%2026-4C81ED'/> [Fairness-Aware Online Slicing and Adaptive Pricing in Multi-Tenant Computing Networks]()
 
 Zhixiong Tang, Saiqin Long, Wentai Wu, Chengxin Li, **Pengpeng Qiao**, Haolin Liu, Zhetao Li
 - IEEE Transactions on Mobile Computing (TMC), 2026, CCF-A
 
-<img src='https://img.shields.io/badge/TMC%2025-4C81ED'/> [Privacy-Preserving Yet Vulnerable: Data Poisoning Attacks Against Differential Privacy Sparse Mobile Crowdsensing System]()
+<img src='https://img.shields.io/badge/TMC%2026-4C81ED'/> [Privacy-Preserving Yet Vulnerable: Data Poisoning Attacks Against Differential Privacy Sparse Mobile Crowdsensing System]()
 
 Chengxin Li, Yujie Gu, **Pengpeng Qiao<sup>*</sup>**, Shengli Pan, Kouichi Sakurai, Zhetao Li
 - IEEE Transactions on Mobile Computing (TMC), 2026, CCF-A
