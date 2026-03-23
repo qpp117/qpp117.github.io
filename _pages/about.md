@@ -24,7 +24,7 @@ I am looking for any form of academic cooperation. If you are interested in coll
 
 <span class='anchor' id='publications'></span>
 # Publications 
-* corresponding author
+\* corresponding author
 
 <img src='https://img.shields.io/badge/DAC%2026-4C81ED'/> [LHGstore: An In-Memory Learned Graph Storage for Fast Updates and Analytics]()
 
