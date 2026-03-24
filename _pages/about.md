@@ -140,7 +140,7 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 <span class='anchor' id='academic-services'></span>
 # Academic Services
 - *Conference/Journal Reviewers* 
-  - Journal Reviewers: IEEE TKDE, IEEE TDSC, IEEE TVT, ACM TSAS, IEEE ACCESS, The Computer Journal, TMC
+  - Journal Reviewers: TKDE, TDSC, TVT, TSAS, The Computer Journal, TMC, TACO, IJPCC
   - Conference Reviewer (Including external): VLDB‘22,23,24, ICDE’22,23,25, AAAI‘21,22, SIGIR’21, IJCAI‘22, DASFFA’23,24, PAKDD‘22,23, APWeb’22,23, EDBT‘22, CIKM'24, MM'25, CCS‘25, ADMA’25 (meta reviewer), ECML-PKDD'25, CoNEXT'25, AsiaCCS‘26, WWW'26, KDD'26
 - *Organizing Committee Member* 
   - Registration Chair, Session Chair, Australasian Database Conference ([ADC](https://adc-conference.github.io/2024/organisation)) 2024.
