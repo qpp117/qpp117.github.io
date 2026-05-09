@@ -24,12 +24,12 @@ I am looking for any form of academic cooperation. If you are interested in coll
 
 <span class='anchor' id='publications'></span>
 # Publications  <span style="font-size: 0.5em; font-weight: normal; background-color: #f3f3f3; color: #777; padding: 1px 5px; border-radius: 4px;">* Corresponding author</span>
-<img src='https://img.shields.io/badge/TMC%2026-4C81ED'/> [One Size Fits All: Achieving Generic and Communication-Efficient Federated Multi-Task Learning via Bi-level Sparsification]()
+<img src='https://img.shields.io/badge/TMC%2026-4C81ED'/> [One Size Fits All: Achieving Generic and Communication-Efficient Federated Multi-Task Learning via Bi-level Sparsification](https://ieeexplore.ieee.org/document/11480960/authors#authors)
 
 Wentai Wu, Chiyuan Tan, Zhetao Li, Saiqin Long, **Pengpeng Qiao**, Zhirun Zheng, Weiwei Lin, Yang Cao
 - IEEE Transactions on Mobile Computing (TMC), 2026, CCF-A
 
-<img src='https://img.shields.io/badge/DAC%2026-4C81ED'/> [LHGstore: An In-Memory Learned Graph Storage for Fast Updates and Analytics]()
+<img src='https://img.shields.io/badge/DAC%2026-4C81ED'/> [LHGstore: An In-Memory Learned Graph Storage for Fast Updates and Analytics](https://arxiv.org/abs/2603.11596)
 
 **Pengpeng Qiao**, Zhiwei Zhang, Xinzhou Wang, Zhetao Li, Xiaochun Cao, Yang Cao
 - ACM/IEEE Design Automation Conference (DAC 2026), CCF-A
@@ -44,12 +44,12 @@ Bo Yan, Yurong Hao, Dingqi Liu, Huabin Sun, **Pengpeng Qiao**, Wei Yang Bryan Li
 Guo Cheng, Kangfei Zhao, Ke Ye, **Pengpeng Qiao**, Zhiwei Zhang, Saiguang Che, Shaonan Ma, Mingxing Zhang
 - ACM Conference on Knowledge Discovery and Data Mining (KDD 2026), CCF-A
 
-<img src='https://img.shields.io/badge/TMC%2026-4C81ED'/> [Fairness-Aware Online Slicing and Adaptive Pricing in Multi-Tenant Computing Networks]()
+<img src='https://img.shields.io/badge/TMC%2026-4C81ED'/> [Fairness-Aware Online Slicing and Adaptive Pricing in Multi-Tenant Computing Networks](https://ieeexplore.ieee.org/document/11433042/)
 
 Zhixiong Tang, Saiqin Long, Wentai Wu, Chengxin Li, **Pengpeng Qiao**, Haolin Liu, Zhetao Li
 - IEEE Transactions on Mobile Computing (TMC), 2026, CCF-A
 
-<img src='https://img.shields.io/badge/TMC%2026-4C81ED'/> [Privacy-Preserving Yet Vulnerable: Data Poisoning Attacks Against Differential Privacy Sparse Mobile Crowdsensing System]()
+<img src='https://img.shields.io/badge/TMC%2026-4C81ED'/> [Privacy-Preserving Yet Vulnerable: Data Poisoning Attacks Against Differential Privacy Sparse Mobile Crowdsensing System](https://www.computer.org/csdl/journal/tm/5555/01/11358765/2dpnwJsWWCk)
 
 Chengxin Li, Yujie Gu, **Pengpeng Qiao<sup>*</sup>**, Shengli Pan, Kouichi Sakurai, Zhetao Li
 - IEEE Transactions on Mobile Computing (TMC), 2026, CCF-A
@@ -59,7 +59,7 @@ Chengxin Li, Yujie Gu, **Pengpeng Qiao<sup>*</sup>**, Shengli Pan, Kouichi Sakur
 Wen Xu, **Pengpeng Qiao<sup>*</sup>**, Shang Liu, Zhirun Zheng, Yang Cao, Zhetao Li
 - International Conference on Very Large Data Bases (VLDB 2025), CCF-A, <font color=red>SPEND travel award</font>
 
-<img src='https://img.shields.io/badge/TMC%2025-4C81ED'/> [Task Offloading and Resource Scheduling in Full-Duplex Cell-Free Massive MIMO-Enabled Edge Computing Networks]()
+<img src='https://img.shields.io/badge/TMC%2025-4C81ED'/> [Task Offloading and Resource Scheduling in Full-Duplex Cell-Free Massive MIMO-Enabled Edge Computing Networks](https://www.computer.org/csdl/journal/tm/2026/05/11277387/2cjCWKcQ4xi)
 
 Shujuan Tian, Lianheng Chen, Xingxia Dai, Yanchun Li, **Pengpeng Qiao**, Hiroo Sekiya
 - IEEE Transactions on Mobile Computing (TMC), 2025, CCF-A
@@ -74,7 +74,7 @@ Yadong Wang, Zhiwei Zhang, **Pengpeng Qiao**, Ye Yuan, Guoren Wang
 Yadong Wang, Zhiwei Zhang, **Pengpeng Qiao**, Ye Yuan, Hao Zhang, Guoren Wang
 - International Conference on Database Systems for Advanced Applications (DASFAA 2025), CCF-B
 
-<img src='https://img.shields.io/badge/ADC%2025-4C81ED'/> [Pursuit of Truth: Incentive Mechanism Involving Privacy Demands in Mobile Crowdsourcing]()
+<img src='https://img.shields.io/badge/ADC%2025-4C81ED'/> [Pursuit of Truth: Incentive Mechanism Involving Privacy Demands in Mobile Crowdsourcing](https://link.springer.com/chapter/10.1007/978-981-95-6196-4_7)
 
 Ping Wang, **Pengpeng Qiao<sup>*</sup>**, Yang Cao, Tao Feng
 - The Australasian Database Conference (ADC 2025), <font color=red>Best Paper Award</font>
