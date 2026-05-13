@@ -39,12 +39,12 @@ Wentai Wu, Chiyuan Tan, Zhetao Li, Saiqin Long, **Pengpeng Qiao**, Zhirun Zheng,
 Bo Yan, Yurong Hao, Dingqi Liu, Huabin Sun, **Pengpeng Qiao**, Wei Yang Bryan Lim, Yang Cao, Chuan Shi
 - The ACM Web Conference (WWW 2026), CCF-A
 
-<img src='https://img.shields.io/badge/KDD%2026-4C81ED'/> [Faico: Faithful and Complete Knowledge Graph Augmented Reasoning](https://openreview.net/pdf?id=KL7c6xvp00)
+<img src='https://img.shields.io/badge/KDD%2026-4C81ED'/> [Faico: Faithful and Complete Knowledge Graph Augmented Reasoning](https://dl.acm.org/doi/epdf/10.1145/3770854.3780336)
 
 Guo Cheng, Kangfei Zhao, Ke Ye, **Pengpeng Qiao**, Zhiwei Zhang, Saiguang Che, Shaonan Ma, Mingxing Zhang
 - ACM Conference on Knowledge Discovery and Data Mining (KDD 2026), CCF-A
 
-<img src='https://img.shields.io/badge/TMC%2026-4C81ED'/> [Fairness-Aware Online Slicing and Adaptive Pricing in Multi-Tenant Computing Networks](https://dl.acm.org/doi/epdf/10.1145/3770854.3780336)
+<img src='https://img.shields.io/badge/TMC%2026-4C81ED'/> [Fairness-Aware Online Slicing and Adaptive Pricing in Multi-Tenant Computing Networks](https://ieeexplore.ieee.org/document/11433042/)
 
 Zhixiong Tang, Saiqin Long, Wentai Wu, Chengxin Li, **Pengpeng Qiao**, Haolin Liu, Zhetao Li
 - IEEE Transactions on Mobile Computing (TMC), 2026, CCF-A
