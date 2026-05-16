@@ -24,6 +24,16 @@ I am looking for any form of academic cooperation. If you are interested in coll
 
 <span class='anchor' id='publications'></span>
 # Publications  <span style="font-size: 0.5em; font-weight: normal; background-color: #f3f3f3; color: #777; padding: 1px 5px; border-radius: 4px;">* Corresponding author</span>
+<img src='https://img.shields.io/badge/KDD%2026-4C81ED'/> [FedRAHi: Reliability-Aware Hierarchical Collaboration for Federated Graph Foundation Models](https://openreview.net/pdf?id=dxqWgTxykB)
+
+Xiangkai Zhu, Yeyu Yan, **Pengpeng Qiao**, tingrui pei, Yanchun Li, Saiqin Long
+- ACM Conference on Knowledge Discovery and Data Mining (KDD 2026), CCF-A
+  
+<img src='https://img.shields.io/badge/KDD%2026-4C81ED'/> [Faico: Faithful and Complete Knowledge Graph Augmented Reasoning](https://dl.acm.org/doi/epdf/10.1145/3770854.3780336)
+
+Guo Cheng, Kangfei Zhao, Ke Ye, **Pengpeng Qiao**, Zhiwei Zhang, Saiguang Che, Shaonan Ma, Mingxing Zhang
+- ACM Conference on Knowledge Discovery and Data Mining (KDD 2026), CCF-A
+
 <img src='https://img.shields.io/badge/TMC%2026-4C81ED'/> [One Size Fits All: Achieving Generic and Communication-Efficient Federated Multi-Task Learning via Bi-level Sparsification](https://ieeexplore.ieee.org/document/11480960/authors#authors)
 
 Wentai Wu, Chiyuan Tan, Zhetao Li, Saiqin Long, **Pengpeng Qiao**, Zhirun Zheng, Weiwei Lin, Yang Cao
@@ -38,11 +48,6 @@ Wentai Wu, Chiyuan Tan, Zhetao Li, Saiqin Long, **Pengpeng Qiao**, Zhirun Zheng,
 
 Bo Yan, Yurong Hao, Dingqi Liu, Huabin Sun, **Pengpeng Qiao**, Wei Yang Bryan Lim, Yang Cao, Chuan Shi
 - The ACM Web Conference (WWW 2026), CCF-A
-
-<img src='https://img.shields.io/badge/KDD%2026-4C81ED'/> [Faico: Faithful and Complete Knowledge Graph Augmented Reasoning](https://dl.acm.org/doi/epdf/10.1145/3770854.3780336)
-
-Guo Cheng, Kangfei Zhao, Ke Ye, **Pengpeng Qiao**, Zhiwei Zhang, Saiguang Che, Shaonan Ma, Mingxing Zhang
-- ACM Conference on Knowledge Discovery and Data Mining (KDD 2026), CCF-A
 
 <img src='https://img.shields.io/badge/TMC%2026-4C81ED'/> [Fairness-Aware Online Slicing and Adaptive Pricing in Multi-Tenant Computing Networks](https://ieeexplore.ieee.org/document/11433042/)
 
