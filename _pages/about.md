@@ -136,7 +136,7 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 
 <span class='anchor' id='Research Grants'></span>
 # Research Grants
-- PI: JSPS Grant-in-Aid for Early-Career Scientists, Efficient and Privacy-Aware Personalized Federated Fine-Tuning of Large Language Models, 2026.4-2028.3.  
+- PI: JSPS Grant-in-Aid for Early-Career Scientists, [Efficient and Privacy-Aware Personalized Federated Fine-Tuning of Large Language Models](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-26K21227), 2026.4-2028.3.  
 
 <span class='anchor' id='invited-talks'></span>
 # Invited Talks
