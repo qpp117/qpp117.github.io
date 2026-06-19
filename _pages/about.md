@@ -59,6 +59,11 @@ Zhixiong Tang, Saiqin Long, Wentai Wu, Chengxin Li, **Pengpeng Qiao**, Haolin Li
 Chengxin Li, Yujie Gu, **Pengpeng Qiao<sup>*</sup>**, Shengli Pan, Kouichi Sakurai, Zhetao Li
 - IEEE Transactions on Mobile Computing (TMC), 2026, CCF-A
 
+<img src='https://img.shields.io/badge/VC%2026-4C81ED'/> [Energy-aware joint task assignment and 3D path planning for cooperative multi-UAV networks](https://www.sciencedirect.com/science/article/abs/pii/S2214209626000331)
+
+Yijun Lu, Yufang Liu, Yuyin Ma, Tingting Xiao, **Pengpeng Qiao<sup>*</sup>**
+- Vehicular Communications (VC 2026), JCR Q1, SCI Q2
+
 <img src='https://img.shields.io/badge/VLDB%2025-4C81ED'/> [Continuous Publication of Weighted Graphs with Local Differential Privacy](https://www.vldb.org/pvldb/vol18/p4214-li.pdf)
 
 Wen Xu, **Pengpeng Qiao<sup>*</sup>**, Shang Liu, Zhirun Zheng, Yang Cao, Zhetao Li
