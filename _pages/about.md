@@ -156,11 +156,12 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 # Academic Services
 - *Conference/Journal Reviewers* 
   - Journal Reviewers: TKDE, TDSC, TVT, TSAS, The Computer Journal, TMC, TACO, IJPCC, DSE, WWWJ, Information Sciences
-  - Conference Reviewer: MM'25, ADMA’25 (meta reviewer), ECML-PKDD'25, CoNEXT'25, AsiaCCS‘26, WWW'26, KDD'26, ADMA'26 (meta reviewer), NeurIPS'26, ICICS'26
+  - Conference Reviewer: MM'25, ADMA’25 (meta reviewer), ECML-PKDD'25, CoNEXT'25, AsiaCCS‘26, WWW'26, KDD'26, ADMA'26 (meta reviewer), NeurIPS'26, ICICS'26, KDD'27
   - External Reviewer: VLDB‘22,23,24, ICDE’22,23,25, AAAI‘21,22, SIGIR’21, IJCAI‘22, DASFFA’23,24, PAKDD‘22,23, APWeb’22,23, EDBT‘22, CIKM'24, CCS‘25
 - *Organizing Committee Member* 
   - Registration Chair, Session Chair, Australasian Database Conference ([ADC](https://adc-conference.github.io/2024/organisation)) 2024.
   - Local Chair, Session Chair, The 13th International Conference on Advanced Cloud and Big Data ([CBD](https://cbd-conference.net/2025/organizing-committee)) 2025.
   - Publicity Chair, The 19th International Conference on Provable and Practical Security ([ProvSec](https://sulab-sever.u-aizu.ac.jp/provsec2025/committee.html)) 2025.
   - Registration Chair, Session Chair, The 21st International Conference on Advanced Data Mining and Applications  ([ADMA](https://adma2025.github.io/organisation_committee.html)) 2025.
+  - Social Media & Publicity Chair, Session Chair, The 12th IEEE International Conference on Cloud and Big Data Computing  ([CBDCom](https://cyber-science.org/2026/cbdcom/organization/)) 2026.
 
