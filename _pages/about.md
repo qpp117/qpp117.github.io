@@ -59,6 +59,16 @@ Zhixiong Tang, Saiqin Long, Wentai Wu, Chengxin Li, **Pengpeng Qiao**, Haolin Li
 Chengxin Li, Yujie Gu, **Pengpeng Qiao<sup>*</sup>**, Shengli Pan, Kouichi Sakurai, Zhetao Li
 - IEEE Transactions on Mobile Computing (TMC), 2026, CCF-A
 
+<img src='https://img.shields.io/badge/ICICS%2026-4C81ED'/> [Data Poisoning Attacks to Local Differential Privacy for Triangle Counts]()
+
+Wen Xu, Zhirun Zheng, **Pengpeng Qiao<sup>*</sup>**, Yang Cao, Mianxiong Dong, Kaoru Ota
+- International Conference on Information and Communications Security (ICICS 2026), CCF-C
+
+<img src='https://img.shields.io/badge/ICICS%2026-4C81ED'/> [BLM-PFP: A Trustworthy Biomedical Knowledge-Guided Multimodal Fusion Model for Security-Sensitive Protein Function Prediction]()
+
+Yuyin Ma, Yue Hu, Chaolin Song, Yijun Lu, Zheng Lin, **Pengpeng Qiao**, Jiale Shu
+- International Conference on Information and Communications Security (ICICS 2026), CCF-C
+
 <img src='https://img.shields.io/badge/VC%2026-4C81ED'/> [Energy-aware Joint Task Assignment and 3D Path Planning for Cooperative Multi-UAV Networks](https://www.sciencedirect.com/science/article/abs/pii/S2214209626000331)
 
 Yijun Lu, Yufang Liu, Yuyin Ma, Tingting Xiao, **Pengpeng Qiao<sup>*</sup>**
