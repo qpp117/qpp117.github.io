@@ -155,6 +155,8 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 
 <span class='anchor' id='invited-talks'></span>
 # Invited Talks
+- *2026.07*, Oral presentation at DAC 2026 about our paper: '*LHGStore: An In-Memory Learned Graph Storage for Fast Updates and Analytics*', Los Angeles, USA.
+- *2025.12*, Oral presentation at ADC 2025 about our paper: '*Pursuit of Truth: Incentive Mechanism Involving Privacy Demands in Mobile Crowdsourcing*', Bali, Indonesia.  
 - *2025.09*, Oral presentation at VLDB 2025 about our paper: '*Continuous Publication of weighted Graphs with Local differential Privacy*', London, UK.  
 - *2025.08*, One tutorial is invited at NDBC 2025 about our research: '*MoE-Enhanced Personalized Federated Learning*', Changchun, China.  
 - *2024.07*, Oral presentation at DASFAA 2024 about our paper: '*FedSig: A Federated graph Augmentation for Class-Imbalanced Node Classification*', Gifu, Japan.  
