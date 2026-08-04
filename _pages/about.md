@@ -154,12 +154,15 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 - PI: JSPS Grant-in-Aid for Early-Career Scientists, [Efficient and Privacy-Aware Personalized Federated Fine-Tuning of Large Language Models](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-26K21227), 2026.4-2028.3.  
 
 <span class='anchor' id='invited-talks'></span>
-# Invited Talks
+# Talks
 - *2026.07*, Oral presentation at DAC 2026 about our paper: '*LHGStore: An In-Memory Learned Graph Storage for Fast Updates and Analytics*', Los Angeles, USA.
-- *2025.12*, Oral presentation at ADC 2025 about our paper: '*Pursuit of Truth: Incentive Mechanism Involving Privacy Demands in Mobile Crowdsourcing*', Bali, Indonesia.  
-- *2025.09*, Oral presentation at VLDB 2025 about our paper: '*Continuous Publication of weighted Graphs with Local differential Privacy*', London, UK.  
-- *2025.08*, One tutorial is invited at NDBC 2025 about our research: '*MoE-Enhanced Personalized Federated Learning*', Changchun, China.  
-- *2024.07*, Oral presentation at DASFAA 2024 about our paper: '*FedSig: A Federated graph Augmentation for Class-Imbalanced Node Classification*', Gifu, Japan.  
+- *2026.07*, Invited talk at JSPS–NSFC Joint Research Workshop: '*One Size Does Not Fit All: Heterogeneous Design from graph storage to LLM Fine-tuning*', Kunming, China.
+- *2026.01*, Invited talk at JST NEXUS workshop: '*Personalization and Aggregation in Federated Learning under Heterogeneity*', Singapore.
+- *2025.12*, Oral presentation at ADC 2025 about our paper: '*Pursuit of Truth: Incentive Mechanism Involving Privacy Demands in Mobile Crowdsourcing*', Bali, Indonesia.
+- *2025.10*, Invited talk at JSPS–NSFC Joint Research Workshop: '*Mixture of Experts in LLMs: An Overview*', Kobe, Japan.
+- *2025.09*, Oral presentation at VLDB 2025 about our paper: '*Continuous Publication of weighted Graphs with Local differential Privacy*', London, UK.
+- *2025.08*, One tutorial is invited at NDBC 2025 about our research: '*MoE-Enhanced Personalized Federated Learning*', Changchun, China.
+- *2024.07*, Oral presentation at DASFAA 2024 about our paper: '*FedSig: A Federated graph Augmentation for Class-Imbalanced Node Classification*', Gifu, Japan.
 - *2024.05*, Oral presentation at ICDE 2024 about our paper: '*Feed: Towards Personalization-Effective Federated Learning*', Utrecht, Netherlands.
 - *2023.10*, Oral presentation at APWeb 2023 about our paper: '*Detecting Critical Nodes in Hypergraphs via Hypergraph Convolutional Network*', Wuhan, China.
 - *2019.12*, Oral presentation at Globecom 2019 about our paper: '*Adversarial Learning of Transitive Semantic Features for Cross-Domain Recommendation*', Hawaii, USA.
