@@ -183,5 +183,5 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
   - Local Chair, Session Chair, The 13th International Conference on Advanced Cloud and Big Data ([CBD](https://cbd-conference.net/2025/organizing-committee)) 2025.
   - Publicity Chair, The 19th International Conference on Provable and Practical Security ([ProvSec](https://sulab-sever.u-aizu.ac.jp/provsec2025/committee.html)) 2025.
   - Registration Chair, Session Chair, The 21st International Conference on Advanced Data Mining and Applications  ([ADMA](https://adma2025.github.io/organisation_committee.html)) 2025.
-  - Social Media & Publicity Chair, The 12th IEEE International Conference on Cloud and Big Data Computing  ([CBDCom](https://cyber-science.org/2026/cbdcom/organization/)) 2026.
+  - Social Media <span style="font-family: Arial, Helvetica, sans-serif;">&amp;</span> Publicity Chair, The 12th IEEE International Conference on Cloud and Big Data Computing ([CBDCom](https://cyber-science.org/2026/cbdcom/organization/)) 2026.
 
