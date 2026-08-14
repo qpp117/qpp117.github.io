@@ -64,6 +64,11 @@ Chengxin Li, Yujie Gu, **Pengpeng Qiao<sup>*</sup>**, Shengli Pan, Kouichi Sakur
 Lingling Zhang, Hang Zeng, **Pengpeng Qiao<sup>*</sup>**, Zhiwei Zhang, Yuan Ye, Guoren Wang
 - International Conference on Web Information Systems Engineering (WISE 2026), CCF-B
 
+<img src='https://img.shields.io/badge/JSS%2026-4C81ED'/> [GraphClone: Structure-Guided Multi-View Graph Learning for Code Clone Detection]()
+
+Tiancheng Lu, Lingling Zhang, Jinming Ma, Ziyu Zhou, Yuandong Wang, **Pengpeng Qiao**
+- Journal of Systems and Software (JSS 2026), CCF-B
+
 <img src='https://img.shields.io/badge/ICICS%2026-4C81ED'/> [Data Poisoning Attacks to Local Differential Privacy for Triangle Counts]()
 
 Wen Xu, Zhirun Zheng, **Pengpeng Qiao<sup>*</sup>**, Yang Cao, Mianxiong Dong, Kaoru Ota
