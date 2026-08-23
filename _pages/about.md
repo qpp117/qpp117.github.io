@@ -165,6 +165,7 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 
 <span class='anchor' id='invited-talks'></span>
 # Talks
+- *2026.08*, Attending KDD 2026 about our two papers: 'FedRAHi' and 'Faico', Jeju, South Korea.
 - *2026.07*, Oral presentation at DAC 2026 about our paper: '*LHGStore: An In-Memory Learned Graph Storage for Fast Updates and Analytics*', Los Angeles, USA.
 - *2026.07*, Invited talk at JSPS–NSFC joint research workshop: '*One Size Does Not Fit All: Heterogeneous Design from graph storage to LLM Fine-tuning*', Kunming, China.
 - *2026.01*, Invited talk at JST NEXUS workshop: '*Personalization and Aggregation in Federated Learning under Heterogeneity*', Singapore.
