@@ -178,6 +178,17 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 - *2023.10*, Oral presentation at APWeb 2023 about our paper: '*Detecting Critical Nodes in Hypergraphs via Hypergraph Convolutional Network*', Wuhan, China.
 - *2019.12*, Oral presentation at Globecom 2019 about our paper: '*Adversarial Learning of Transitive Semantic Features for Cross-Domain Recommendation*', Hawaii, USA.
 
+<span class='anchor' id='Research Grants'></span>
+# Award
+- Best Baper Awards
+  - 2026 6th International Conference on Computer Science and Blockchain (CCSB 2026)
+  - The Australasian Database Conference (ADC 2025)
+  - IEEE Global Communications Conference (GLOBECOM 2019)
+- Outstanding/ Service Awards
+  - The Australasian Database Conference (ADC 2024)
+  - The 21st International Conference on Advanced Data Mining and Applications (ADMA 2024)
+  - The 13th International Conference on Advanced Cloud and Big Data (CBD 2025)
+
 <span class='anchor' id='academic-services'></span>
 # Academic Services
 - *Conference/Journal Reviewers* 
