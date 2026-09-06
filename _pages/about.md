@@ -184,7 +184,7 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
   - The 6th International Conference on Computer Science and Blockchain (CCSB 2026)
   - The 36th Australasian Database Conference (ADC 2025)
   - The 38th IEEE Global Communications Conference (GLOBECOM 2019)
-- Outstanding/ Service Awards
+- Outstanding Service Awards
   - The Australasian Database Conference (ADC 2024)
   - The 21st International Conference on Advanced Data Mining and Applications (ADMA 2024)
   - The 13th International Conference on Advanced Cloud and Big Data (CBD 2025)
