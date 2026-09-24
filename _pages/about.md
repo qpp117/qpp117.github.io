@@ -24,6 +24,21 @@ I am looking for any form of academic cooperation. If you are interested in coll
 
 <span class='anchor' id='publications'></span>
 # Publications  <span style="font-size: 0.5em; font-weight: normal; background-color: #f3f3f3; color: #777; padding: 1px 5px; border-radius: 4px;">* Corresponding author</span>
+<img src='https://img.shields.io/badge/NeurIPS%2026-4C81ED'/> [Align Before Aggregation: Basis-Consistent Federated LoRA under Heterogeneous Ranks]()
+
+**Pengpeng Qiao**, Yang Cao, Lingling Zhang, Guo Cheng, Junwei Chen, Manjiang Yu, Wei Yang Bryan Lim, Masatoshi Yoshikawa
+- The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026), CCF-A
+
+<img src='https://img.shields.io/badge/NeurIPS%2026-4C81ED'/> [Rank-Aware Differentially Private Release of Listwise Preferences for LLM Alignment]()
+
+Junwei Chen, Manjiang Yu, **Pengpeng Qiao**, Yang Cao 
+- The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026), CCF-A
+
+<img src='https://img.shields.io/badge/TDSC%2026-4C81ED'/> [Meta-PFL: Meta-Based Personalized Federated Learning Against Gradient Inversion Attacks](https://openreview.net/pdf?id=dxqWgTxykB)
+
+Shujuan Tian, Jie Wu, Wei Li, Yanchun Li, Han Wang, **Pengpeng Qiao**, Young-June Choi
+- Transactions on Dependable and Secure Computing (TDSC 2026), CCF-A
+
 <img src='https://img.shields.io/badge/KDD%2026-4C81ED'/> [FedRAHi: Reliability-Aware Hierarchical Collaboration for Federated Graph Foundation Models](https://openreview.net/pdf?id=dxqWgTxykB)
 
 Xiangkai Zhu, Yeyu Yan, **Pengpeng Qiao**, tingrui pei, Yanchun Li, Saiqin Long
