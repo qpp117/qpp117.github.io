@@ -39,7 +39,7 @@ Junwei Chen, Manjiang Yu, **Pengpeng Qiao**, Yang Cao
 Shujuan Tian, Jie Wu, Wei Li, Yanchun Li, Han Wang, **Pengpeng Qiao**, Young-June Choi
 - Transactions on Dependable and Secure Computing (TDSC 2026), CCF-A
 
-<img src='https://img.shields.io/badge/KDD%2026-4C81ED'/> [FedRAHi: Reliability-Aware Hierarchical Collaboration for Federated Graph Foundation Models](https://openreview.net/pdf?id=dxqWgTxykB)
+<img src='https://img.shields.io/badge/KDD%2026-4C81ED'/> [FedRAHi: Reliability-Aware Hierarchical Collaboration for Federated Graph Foundation Models](https://dl.acm.org/doi/epdf/10.1145/3770855.3817639)
 
 Xiangkai Zhu, Yeyu Yan, **Pengpeng Qiao**, tingrui pei, Yanchun Li, Saiqin Long
 - ACM Conference on Knowledge Discovery and Data Mining (KDD 2026), CCF-A
@@ -74,7 +74,7 @@ Zhixiong Tang, Saiqin Long, Wentai Wu, Chengxin Li, **Pengpeng Qiao**, Haolin Li
 Chengxin Li, Yujie Gu, **Pengpeng Qiao<sup>*</sup>**, Shengli Pan, Kouichi Sakurai, Zhetao Li
 - IEEE Transactions on Mobile Computing (TMC), 2026, CCF-A
 
-<img src='https://img.shields.io/badge/WISE%2026-4C81ED'/> [Dual-Metric Partitioning with Adaptive Kernel Execution for Efficient GCN Acceleration]()
+<img src='https://img.shields.io/badge/WISE%2026-4C81ED'/> [Dual-Metric Partitioning with Adaptive Kernel Execution for Efficient GCN Acceleration](https://arxiv.org/pdf/2609.01983v1)
 
 Lingling Zhang, Hang Zeng, **Pengpeng Qiao<sup>*</sup>**, Zhiwei Zhang, Yuan Ye, Guoren Wang
 - International Conference on Web Information Systems Engineering (WISE 2026), CCF-B
