@@ -34,7 +34,7 @@ I am looking for any form of academic cooperation. If you are interested in coll
 Junwei Chen, Manjiang Yu, **Pengpeng Qiao**, Yang Cao 
 - The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026), CCF-A
 
-<img src='https://img.shields.io/badge/TDSC%2026-4C81ED'/> [Meta-PFL: Meta-Based Personalized Federated Learning Against Gradient Inversion Attacks](https://openreview.net/pdf?id=dxqWgTxykB)
+<img src='https://img.shields.io/badge/TDSC%2026-4C81ED'/> [Meta-PFL: Meta-Based Personalized Federated Learning Against Gradient Inversion Attacks](https://www.computer.org/csdl/journal/tq/5555/01/11702504/2kbmprmsl5m)
 
 Shujuan Tian, Jie Wu, Wei Li, Yanchun Li, Han Wang, **Pengpeng Qiao**, Young-June Choi
 - Transactions on Dependable and Secure Computing (TDSC 2026), CCF-A
