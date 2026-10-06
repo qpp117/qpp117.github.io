@@ -89,12 +89,12 @@ Tiancheng Lu, Lingling Zhang, Jinming Ma, Ziyu Zhou, Yuandong Wang, **Pengpeng Q
 Wen Xu, Zhirun Zheng, **Pengpeng Qiao<sup>*</sup>**, Yang Cao, Mianxiong Dong, Kaoru Ota
 - International Conference on Information and Communications Security (ICICS 2026), CCF-C
 
-<img src='https://img.shields.io/badge/CCSB%2026-4C81ED'/> [BLM-PFP: A Trustworthy Biomedical Knowledge-Guided Multimodal Fusion Model for Security-Sensitive Protein Function Prediction]()
+<img src='https://img.shields.io/badge/ICICS%2026-4C81ED'/> [BLM-PFP: A Trustworthy Biomedical Knowledge-Guided Multimodal Fusion Model for Security-Sensitive Protein Function Prediction]()
 
 Yuyin Ma, Yue Hu, Chaolin Song, Yijun Lu, Zheng Lin, **Pengpeng Qiao**, Jiale Shu
 - International Conference on Information and Communications Security (ICICS 2026), CCF-C
 
-<img src='https://img.shields.io/badge/VC%2026-4C81ED'/> [Conflict-Aware Federated Fine-Tuning of Large Language Models with Mixture-of-Experts]()
+<img src='https://img.shields.io/badge/CCSB%2026-4C81ED'/> [Conflict-Aware Federated Fine-Tuning of Large Language Models with Mixture-of-Experts]()
 
 Yijun Lu, Zihan Fang, **Pengpeng Qiao**, Zheng Lin, Jing Yang, Yuxin Zhang, Por Lip Yee, Zhe Chen, Jun Luo
 - International Conference on Computer Science and Blockchain (CCSB 2026), <font color=red>Best Paper Award</font>
