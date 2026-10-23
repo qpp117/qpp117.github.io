@@ -54,7 +54,7 @@ Guo Cheng, Kangfei Zhao, Ke Ye, **Pengpeng Qiao**, Zhiwei Zhang, Saiguang Che, S
 Wentai Wu, Chiyuan Tan, Zhetao Li, Saiqin Long, **Pengpeng Qiao**, Zhirun Zheng, Weiwei Lin, Yang Cao
 - IEEE Transactions on Mobile Computing (TMC), 2026, CCF-A
 
-<img src='https://img.shields.io/badge/DAC%2026-4C81ED'/> [LHGstore: An In-Memory Learned Graph Storage for Fast Updates and Analytics](https://arxiv.org/abs/2603.11596)
+<img src='https://img.shields.io/badge/DAC%2026-4C81ED'/> [LHGstore: An In-Memory Learned Graph Storage for Fast Updates and Analytics](https://dl.acm.org/doi/epdf/10.1145/3770743.3804389)
 
 **Pengpeng Qiao**, Zhiwei Zhang, Xinzhou Wang, Zhetao Li, Xiaochun Cao, Yang Cao
 - ACM/IEEE Design Automation Conference (DAC 2026), CCF-A
