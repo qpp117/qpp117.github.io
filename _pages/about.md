@@ -24,6 +24,11 @@ I am looking for any form of academic cooperation. If you are interested in coll
 
 <span class='anchor' id='publications'></span>
 # Publications  <span style="font-size: 0.5em; font-weight: normal; background-color: #f3f3f3; color: #777; padding: 1px 5px; border-radius: 4px;">* Corresponding author</span>
+<img src='https://img.shields.io/badge/TACO%2026-4C81ED'/> [Efficient Learned Hierarchical Storage for Dynamic Graphs]()
+
+**Pengpeng Qiao**, Zhiwei Zhang, Xinzhou Wang, Zhetao Li, Xiaochun Cao, Yang Cao
+- ACM Transactions on Architecture and Code Optimization (TACO 2026), CCF-A
+
 <img src='https://img.shields.io/badge/NeurIPS%2026-4C81ED'/> [Align Before Aggregation: Basis-Consistent Federated LoRA under Heterogeneous Ranks]()
 
 **Pengpeng Qiao**, Yang Cao, Lingling Zhang, Guo Cheng, Junwei Chen, Manjiang Yu, Wei Yang Bryan Lim, Masatoshi Yoshikawa
@@ -185,6 +190,7 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 
 <span class='anchor' id='invited-talks'></span>
 # Talks
+- *2026.10*, Invited talk at NEXUS Workshop, ICICS 2026 Conference: '*Federated LoRA under Heterogeneous Ranks*', Fukui, Japan.
 - *2026.08*, Attending KDD 2026 about our two papers: 'FedRAHi' and 'Faico', Jeju, South Korea.
 - *2026.07*, Oral presentation at DAC 2026 about our paper: '*LHGStore: An In-Memory Learned Graph Storage for Fast Updates and Analytics*', Los Angeles, USA.
 - *2026.07*, Invited talk at JSPS–NSFC joint research workshop: '*One Size Does Not Fit All: Heterogeneous Design from graph storage to LLM Fine-tuning*', Kunming, China.
@@ -202,7 +208,7 @@ Kaigui Bian, Yangbin Zhang, **Pengpeng Qiao**, Zhetao Li
 # Academic Services
 - *Conference/Journal Reviewers* 
   - Journal Reviewers: TKDE, TDSC, TVT, TSAS, The Computer Journal, TMC, TACO, IJPCC, DSE, WWWJ, Information Sciences, JBHI
-  - Conference Reviewer: MM'25, ADMA’25 (meta reviewer), ECML-PKDD'25, CoNEXT'25, AsiaCCS‘26, WWW'26, KDD'26, ADMA'26 (meta reviewer), NeurIPS'26 (<font color=red>Top Reviewer</font>), ICICS'26, WISE'26, ACCV'26, KDD'27, AAAI'27, WSDM'27, ICLR'27, WWW'27
+  - Conference Reviewer: MM'25, ADMA’25 (meta reviewer), ECML-PKDD'25, CoNEXT'25, AsiaCCS‘26, WWW'26, KDD'26, ADMA'26 (meta reviewer), NeurIPS'26 (<font color=red>Top Reviewer</font>), ICICS'26, WISE'26, ACCV'26, KDD'27, AAAI'27, WSDM'27, ICLR'27, WWW'27, ICC'27, CVPR'27
   - External Reviewer: VLDB‘22,23,24, ICDE’22,23,25, AAAI‘21,22, SIGIR’21, IJCAI‘22, DASFFA’23,24, PAKDD‘22,23, APWeb’22,23, EDBT‘22, CIKM'24, CCS‘25
 - *Organizing Committee Member* 
   - Registration Chair, Session Chair, Australasian Database Conference ([ADC](https://adc-conference.github.io/2024/organisation)) 2024.
