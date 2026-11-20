@@ -42,7 +42,7 @@ Junwei Chen, Manjiang Yu, **Pengpeng Qiao**, Yang Cao
 <img src='https://img.shields.io/badge/TDSC%2026-4C81ED'/> [Meta-PFL: Meta-Based Personalized Federated Learning Against Gradient Inversion Attacks](https://www.computer.org/csdl/journal/tq/5555/01/11702504/2kbmprmsl5m)
 
 Shujuan Tian, Jie Wu, Wei Li, Yanchun Li, Han Wang, **Pengpeng Qiao**, Young-June Choi
-- Transactions on Dependable and Secure Computing (TDSC 2026), CCF-A
+- IEEE Transactions on Dependable and Secure Computing (TDSC 2026), CCF-A
 
 <img src='https://img.shields.io/badge/KDD%2026-4C81ED'/> [FedRAHi: Reliability-Aware Hierarchical Collaboration for Federated Graph Foundation Models](https://dl.acm.org/doi/epdf/10.1145/3770855.3817639)
 
